@@ -1,6 +1,7 @@
 
 /**
  * ElevarNumero
+ * Ejercicio 1  Creando una función matemática
  */
 public class ElevarNumero {
     public static void main(String[] args) {
